@@ -24,7 +24,7 @@
 
 Ensure you have the following installed:
 
-- **.NET 5 or higher**
+- **.NET 8.0**
 - **Visual Studio** (for development and debugging)
 - **VLC/MPV** (for optional video wallpaper support)
 
