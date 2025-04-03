@@ -10,27 +10,36 @@
 - **Responsive Interface**: The UI adapts to different screen resolutions.
 - **Event Logging**: Generates logs for important system actions.
 
-## Technologies Used
+## Technologies Used 🖥️
 
-- **C#**
-- **WPF (Windows Presentation Foundation)**
+<p>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+      <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
+      <a href="#"><img alt="DirectX" src="https://img.shields.io/badge/-DirectX-006400?logo=directx&logoColor=green"></a>
+      <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/MaterialDesignInXAML-FF69B4.svg?logo=material-design&logoColor=white"></a>
+</p>
+
 - **Material Design In XAML**
 - **DirectX (for handling high-quality wallpapers)**
 - **VLC or MPV (optional video support)**
+- **Git (for versioning)**
+
 
 ## Getting Started
 
-### Prerequisites
+### PreRequisites
 
 Ensure you have the following installed:
 
-- **.NET 8.0**
-- **Visual Studio** (for development and debugging)
+- **.NET 8.x**
+- **Visual Studio 2022** (for development and debugging)
 - **VLC/MPV** (for optional video wallpaper support)
 
 ### Installing
 
-1. Clone the repository:
+1. Clone the repository: 
     ```bash
     git clone https://github.com/yourusername/DynamicWallpaper.git
     ```
@@ -39,7 +48,7 @@ Ensure you have the following installed:
 3. Build the solution to restore all dependencies.
 4. Run the application using the built-in Visual Studio debugger or build an executable.
 
-### Running the Application
+### Running the Application 🏃‍♂️‍➡️
 
 When the application starts, you will see the following features:
 
